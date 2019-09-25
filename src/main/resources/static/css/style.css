@@ -1,0 +1,5 @@
+.footer-bg{
+    /* Center and scale the image nicely */
+    background: url("/images/footer-bg.jpg") no-repeat center;
+    background-size: cover;
+}
